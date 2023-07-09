@@ -1,5 +1,5 @@
-const college={ name:"RGUKT-SKLM",year:2016,strength:4000}
-module.exports=college;
+//const college={ name:"RGUKT-SKLM",year:2016,strength:4000}
+//module.exports=college;
 
 
 
